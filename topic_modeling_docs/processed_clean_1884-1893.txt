@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+   1  &        2  &    3  &        4  &    5  &        6  &        7  &        8  &        9  &    10 \\
+\midrule
+maman &     peine & maman &     peine &  soir &     maman &     peine &     peine &     peine & maman \\
+matin &      payé &  soir &      payé & maman &      soir &      payé &      payé &      payé &  soir \\
+paris &    perdre & paris &    perdre & matin &     matin &    perdre &    perdre &    perdre & paris \\
+ soir & pentecôte & matin & pentecôte & paris &     faire & pentecôte & pentecôte & pentecôte & matin \\
+ voir &   pensées &  voir &   pensées & dames &     paris &   pensées &   pensées &   pensées &  voir \\
+faire &    pensée &  mort &    pensée &  voir &     carte &    pensée &    pensée &    pensée &  mort \\
+ fête &     pensé & faire &     pensé &  mort &      mort &     pensé &     pensé &     pensé & faire \\
+carte &   pension & aller &   pension & faire &      voir &   pension &   pension &   pension & gênes \\
+aller &  pendrait &  fête &  pendrait &  fête & nouvelles &  pendrait &  pendrait &  pendrait & carte \\
+ mort &     petit & gênes &     petit & gênes &    lettre &     petit &     petit &     petit & dames \\
+0.447 &     0.636 & 0.469 &     0.636 & 0.387 &     0.438 &     0.636 &     0.636 &     0.636 & 0.441 \\
+\bottomrule
+\end{tabular}

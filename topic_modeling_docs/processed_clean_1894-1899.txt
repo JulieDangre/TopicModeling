@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+    1  &     2  &            3  &     4  &      5  &       6  &      7  &      8  &            9  &     10 \\
+\midrule
+ paris &  paris &   photographe &  paris &   paris &    paris &   paris &   paris &   photographe &  paris \\
+ faire &  temps &    philosophy &  faire &    soir &    faire &    soir &   faire &    philosophy &   soir \\
+  reçu &  faire &       phrases &  temps &   jours &     soir &   temps &   écrit &       phrases &  faire \\
+lettre &  jours &        phrase &   soir &   faire &    temps &   faire &    soir &        phrase &  temps \\
+  soir &   voir &        photos &  jours &   temps &    jours &   jours &  lettre &        photos &  écrit \\
+  voir &   soir & photograppour &  écrit &    reçu &    écrit &  lettre &   temps & photograppour & schwob \\
+ jours & lettre &  photograples &   reçu & article &     voir &  schwob &   jours &  photograples &  jours \\
+schwob &   sais &   photography & lettre &  lettre &   lettre &    reçu &   matin &   photography &   reçu \\
+ temps &   gide &  photographie & schwob &    voir & ailleurs &    voir &    reçu &  photographie & lettre \\
+  sais &   reçu &  photographes &   voir &   écrit &    matin & article & article &  photographes &  jusqu \\
+  0.36 &   0.38 &         0.583 &  0.406 &   0.428 &    0.349 &   0.402 &   0.443 &         0.583 &   0.42 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+      1  &           2  &       3  &       4  &       5  &       6  &           7  &       8  &       9  &           10 \\
+\midrule
+   paris &       permis &    paris &    paris &    faire &    paris &       permis &    paris &    faire &       permis \\
+germaine &     perplexe &    faire &    faire & germaine &    faire &     perplexe &    faire & germaine &     perplexe \\
+  choses &      pension & germaine & germaine &     jean & germaine &      pension & germaine &    paris &      pension \\
+   faire &        pensé &     jean &     jean &   choses &     jean &        pensé &   choses &   choses &        pensé \\
+   jours &       perdre &     sais &     sais &    paris &   choses &       perdre &     sais &     jean &       perdre \\
+    jean &        perds &   lettre &   choses &     sais &     sais &        perds &     jean &     sais &        perds \\
+  lettre &        perdu &   choses &     soir &    maman &    jours &        perdu &    jours &    jours &        perdu \\
+    soir &   permettent &    jours &    jours &    jours &   lettre &   permettent & ailleurs &   lettre &   permettent \\
+    sais &       penser &     soir &    maman &     soir &     soir &       penser &    écrit &    aller &       penser \\
+   aller & perrosguirec &    écrit & ailleurs & remercie &    aller & perrosguirec &    aller &    maman & perrosguirec \\
+   0.383 &        0.642 &     0.41 &    0.383 &    0.371 &    0.383 &        0.642 &    0.365 &    0.411 &        0.642 \\
+\bottomrule
+\end{tabular}

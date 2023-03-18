@@ -1,0 +1,4 @@
+!.gitignore
+
+resources/*
+clean_docs/*

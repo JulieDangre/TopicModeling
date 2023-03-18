@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+    1  &     2  &     3  &     4  &      5  &     6  &     7  &           8  &     9  &     10 \\
+\midrule
+ paris &  paris &  paris &  paris &   paris &  paris &  paris &  philosophes &  paris &  paris \\
+  soir &   soir &   soir &  faire &    soir &  faire &   soir &   philosophy &   soir &  faire \\
+ faire &  faire &  faire &  temps &   jours &   soir &  temps &        phare &  faire &   soir \\
+ temps &  temps &  temps &   soir &   faire &  temps &  faire &   pharisiens &  temps &  temps \\
+ jours &  jours &  jours & lettre &   temps &  jours &  jours &  philosopher &  matin &  jours \\
+lettre & schwob &  matin &  jours &    reçu &  écrit & lettre &       peyrou &  jours & lettre \\
+ matin &   reçu &  écrit &   voir &    gide & lettre & schwob &  philosophie &   reçu &   voir \\
+  reçu & lettre &   reçu &  maman &    voir &   reçu &  écrit & photographes &  écrit &  matin \\
+  voir &   voir & schwob &  matin &   matin &  matin &  matin &  photographe & lettre &   reçu \\
+ aller &   gide &   voir &  jusqu & article &   voir &   voir &   peyronnaud &   sais &  écrit \\
+ 0.383 &  0.374 &  0.406 &  0.325 &   0.405 &  0.401 &  0.384 &        0.704 &  0.408 &  0.401 \\
+\bottomrule
+\end{tabular}

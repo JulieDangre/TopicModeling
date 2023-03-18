@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+             1  &       2  &              3  &              4  &              5  &      6  &              7  &       8  &       9  &       10 \\
+\midrule
+      personnel &    paris &       personnel &       personnel &       personnel &   paris &       personnel &    paris &    paris &    paris \\
+    personnages &  jeannie &     personnages &     personnages &     personnages & jeannie &     personnages &    faire &  jeannie &    maman \\
+          perte &    faire &           perte &           perte &           perte &   maman &           perte &  jeannie &    maman &    faire \\
+   persécutions &    maman &    persécutions &    persécutions &    persécutions &    soir &    persécutions &    maman &    faire &  jeannie \\
+   perspectives &    jours &    perspectives &    perspectives &    perspectives &   faire &    perspectives &     soir &    jours &    jours \\
+      personnes &     soir &       personnes &       personnes &       personnes &   matin &       personnes &    jours &     soir & ailleurs \\
+   personnelles &     sais &    personnelles &    personnelles &    personnelles &   temps &    personnelles &     voir & ailleurs &     soir \\
+          petit &     voir &           petit &           petit &           petit &    sais &           petit & germaine &     sais &     sais \\
+    persistance & ailleurs &     persistance &     persistance &     persistance &   jours &     persistance &    matin &    temps &    temps \\
+perpétuellement &    matin & perpétuellement & perpétuellement & perpétuellement &    voir & perpétuellement & ailleurs &     voir &   choses \\
+          0.505 &    0.346 &           0.505 &           0.505 &           0.505 &   0.405 &           0.505 &    0.351 &    0.327 &    0.337 \\
+\bottomrule
+\end{tabular}

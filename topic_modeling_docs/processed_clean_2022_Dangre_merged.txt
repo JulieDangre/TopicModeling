@@ -1,0 +1,17 @@
+\begin{tabular}{llllllllll}
+\toprule
+          1  &       2  &     3  &       4  &           5  &           6  &       7  &       8  &       9  &       10 \\
+\midrule
+persécutions &    paris &  paris &    paris & persécutions & persécutions &    paris &    paris &    paris &    paris \\
+       perçu &    faire &  faire &    faire &        perçu &        perçu &    faire &    faire &    faire &    faire \\
+personnelles &    jours &   soir &    temps & personnelles & personnelles &     soir &    temps &    maman &    maman \\
+  personnels &     sais &  jours &    jours &   personnels &   personnels &    jours &    maman &     soir &    temps \\
+   personnes &    temps &  temps &    maman &    personnes &    personnes &    maman &     sais &    temps &     sais \\
+ perspective &     soir &  maman &     voir &  perspective &  perspective &    temps &   lettre &    matin &   lettre \\
+perspectives &    maman &   sais &     soir & perspectives & perspectives &     sais &    jours &     reçu &     soir \\
+    persuadé & ailleurs &  matin &    matin &     persuadé &     persuadé &    matin &     soir &    jours &    jours \\
+   personnel &     voir & lettre &     reçu &    personnel &    personnel &     reçu &     voir & germaine &     reçu \\
+       perte &   lettre &   voir & germaine &        perte &        perte & ailleurs & ailleurs &     sais & ailleurs \\
+       0.623 &    0.343 &  0.364 &    0.407 &        0.623 &        0.623 &    0.364 &    0.343 &    0.404 &    0.365 \\
+\bottomrule
+\end{tabular}
